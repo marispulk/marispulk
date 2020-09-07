@@ -1,5 +1,3 @@
-[![Header](https://github.com/marispulk/marispulk/blob/master/git-header.jpg "Header")](https://www.linkedin.com/in/maris-pulk/)
-
 # Hi there 👋! 
 
 My name is Maris and I'm a junior software developer, living in Tallinn, Estonia. 
