@@ -9,5 +9,8 @@ When I'm not developing or learning new things, you can find me out running 🏃
 
 ⚡ Fun fact: I sneeze every time i chew a gum that has peppermint in it!
 
+### Showcase projects
+- Message application (Angular, TypeScript, Firebase) - [Live](https://messageapp100.azurewebsites.net)/[GitHub](https://github.com/marispulk/MessageApp) 
+
 ### Where to find me
 [LinkedIn](https://www.linkedin.com/in/maris-pulk/)
