@@ -11,8 +11,9 @@ When I'm not developing or learning new things, you can find me out running 🏃
 
 ### Showcase projects
 - Message application (Angular, TypeScript, Firebase) - [Live](https://messageapp100.azurewebsites.net)/[GitHub](https://github.com/marispulk/MessageApp) 
-- Restaurant web page (Angular, Angular Material, TypeScript, REST API) - [GitHub](https://github.com/marispulk/Front-End-JavaScript-Frameworks-Angular)
-- Restaurant web page (Bootstrap, HTML, SASS, LESS) - [GitHub](https://github.com/marispulk/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4)
+- Restaurant page (Angular, Angular Material, TypeScript, REST API) - [GitHub](https://github.com/marispulk/Front-End-JavaScript-Frameworks-Angular)
+- Restaurant page (Bootstrap, HTML, SASS, LESS) - [GitHub](https://github.com/marispulk/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4)
+- Restaurant Mobile App (Ionic) - [GitHub](https://github.com/marispulk/Confusion-Ionic)
 
 ### Where to find me
 [LinkedIn](https://www.linkedin.com/in/maris-pulk/)
