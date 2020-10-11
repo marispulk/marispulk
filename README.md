@@ -11,6 +11,7 @@ When I'm not developing or learning new things, you can find me out running 🏃
 
 ### Showcase projects
 - Message application (Angular, TypeScript, Firebase) - [Live](https://messageapp100.azurewebsites.net)/[GitHub](https://github.com/marispulk/MessageApp) 
+- Restaurant web page (Bootstrap, HTML, CSS) - [GitHub](https://github.com/marispulk/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4)
 
 ### Where to find me
 [LinkedIn](https://www.linkedin.com/in/maris-pulk/)
