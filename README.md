@@ -12,7 +12,8 @@ When I'm not developing or learning new things, you can find me out running 🏃
 ### Showcase projects
 - Message application (Angular, TypeScript, Firebase) - [Live](https://messageapp100.azurewebsites.net)/[GitHub](https://github.com/marispulk/MessageApp) 
 - Restaurant Mobile App (Ionic, Angular, TypeScript) - [Live](https://confusion-ionic.azurewebsites.net)/[GitHub](https://github.com/marispulk/Confusion-Ionic)
-- KlausFE Users list (Angular, TypeScript, Bootstrap) - [Live](https://app-klaus.azurewebsites.net)/[GitHub](https://github.com/marispulk/Klaus-FE)
+- User management portal (Angular, TypeScript, Bootstrap) - [Live](https://app-klaus.azurewebsites.net)/[GitHub](https://github.com/marispulk/User-Portal)
+- Task Manager (Angular, TypeScript, Bootstrap) - [Live](https://app-task.azurewebsites.net/)/[GitHub]https://github.com/marispulk/Task-Manager)
 - Restaurant page (Angular, Angular Material, TypeScript, REST API) - [Live](https://confusion-angular.azurewebsites.net/)/[GitHub](https://github.com/marispulk/Front-End-JavaScript-Frameworks-Angular)
 - Restaurant page (Bootstrap, HTML, SASS, LESS) - [Live](https://confusion-bootstrap.azurewebsites.net/)/[GitHub](https://github.com/marispulk/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4)
 
