@@ -1,10 +1,11 @@
 # Hi there 👋! 
 
 My name is Maris and I'm a junior software developer, living in Tallinn, Estonia. 
-I'm currently passionate about learning front-end technologies and frameworks like Angular and JS. Also Ionic and TypeScript.
+I'm currently passionate about learning front-end technologies and frameworks like Angular and JS. Also PHP, Ionic and TypeScript.
 
-From this year I decided to challenge myself with new opportunities and opted for a career change.
-🌱 I’m currently self-learning through Coursera and passing different developer courses from universities all over the world 🌎.
+I've been doing this from 2020 and I'm currently working as a software integrations developer.
+This position has given be a better overview how application development works and that's why from this year I also joined university in analysis and design of informations systems. 
+In additon to that 🌱 I’m self-learning through different courses and my own personal projects 🌎.
 When I'm not developing or learning new things, you can find me out running 🏃, playing tennis 🎾 or enjoying good music(and singing along)🎙️.
 
 ### Showcase projects
