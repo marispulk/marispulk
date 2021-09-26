@@ -6,6 +6,7 @@ I'm currently passionate about learning front-end technologies and frameworks li
 I've been doing this from 2020 and I'm currently working as a software integrations developer.
 This position has given be a better overview how application development works and that's why from this year I also joined university in analysis and design of informations systems. 
 In additon to that 🌱 I’m self-learning through different courses and my own personal projects 🌎.
+
 When I'm not developing or learning new things, you can find me out running 🏃, playing tennis 🎾 or enjoying good music(and singing along)🎙️.
 
 ### Showcase projects
