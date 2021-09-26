@@ -7,8 +7,6 @@ From this year I decided to challenge myself with new opportunities and opted fo
 🌱 I’m currently self-learning through Coursera and passing different developer courses from universities all over the world 🌎.
 When I'm not developing or learning new things, you can find me out running 🏃, playing tennis 🎾 or enjoying good music(and singing along)🎙️.
 
-⚡ Fun fact: I sneeze every time i chew a gum that has peppermint in it!
-
 ### Showcase projects
 - Message application (Angular, TypeScript, Firebase) - [Live](https://messageapp100.azurewebsites.net)/[GitHub](https://github.com/marispulk/MessageApp) 
 - Restaurant Mobile App (Ionic, Angular, TypeScript) - [Live](https://confusion-ionic.azurewebsites.net)/[GitHub](https://github.com/marispulk/Confusion-Ionic)
